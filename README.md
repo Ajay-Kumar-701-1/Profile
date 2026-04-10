@@ -12,7 +12,7 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Azure Cloud Platform
  
- :books: I want to learn <img src="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"> and <img src=https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+ :books: I want to learn <img src="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge"> and <img src="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
  
  👯 I’m looking to collaborate for Java and ML-based project **Doc App**.
  
